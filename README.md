@@ -24,4 +24,10 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Stripo        | Email template builder that simplifies the email production process. Create professional email templates with drag-and-drop editor.                                                           | [5 extra months free on any annual plan](https://stripo.email/)                                                                                              | VADOOBF25     |
 | ClearCRM      | Customer relationship management platform for managing sales pipelines, contacts, and customer interactions efficiently.                                                                      | [80% OFF on all annual plans](https://clearcrm.com/black-friday-deal/)                                                                                       | -             |
 
+## Accounting
+
+| Tool | Description                                                                                                                                                                                                           | Deal                                                      | Promo Code |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| Wave | Simple money management solutions for small businesses. Create beautiful invoices, accept online payments, and make accounting easy—all in one place. Includes invoicing, payments, accounting, and payroll features. | [50% OFF 3 months of Pro Plan](https://www.waveapps.com/) | BF50       |
+
 Please open a PR to submit your deal to this list.
