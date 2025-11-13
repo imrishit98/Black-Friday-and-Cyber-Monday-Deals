@@ -30,4 +30,10 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | Wave | Simple money management solutions for small businesses. Create beautiful invoices, accept online payments, and make accounting easy—all in one place. Includes invoicing, payments, accounting, and payroll features. | [50% OFF 3 months of Pro Plan](https://www.waveapps.com/) | BF50       |
 
+## SEO
+
+| Tool      | Description                                                                                                                                                                                                           | Deal                                                      | Promo Code    |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------- |
+| Serpstash | SEO reports and tools for smarter growth. Get complete SEO audits with 30+ technical and on-page checks, keyword research, SERP rankings, performance data, authority checks, and competition analysis. Built for getting you ranked. | [85% OFF](https://serpstash.com/)                         | BLACKFRIDAY   |
+
 Please open a PR to submit your deal to this list.
