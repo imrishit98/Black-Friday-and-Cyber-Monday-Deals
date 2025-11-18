@@ -40,6 +40,9 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | SimpleChat     | Unified platform supporting over 10 leading AI models including GPT-5, Claude 4.1, and Gemini 2.5 Pro. One interface for all your AI needs.                                                                                                                      | [40% OFF](https://simplechat.app/?ref=aitoolsfyi)                                              | BF2025          |
 | TypingMind     | The chat UI that makes talking to AI models actually enjoyable. Think ChatGPT but better, with support for multiple models, MCP, Artifact, Projects, Vision, Canvas, AI agents, DALL-E, and plugins. Basically, it's the Swiss Army knife of AI chat interfaces. | [60% OFF - Buy Once, Use Forever](https://www.typingmind.com?ref=aitoolsfyi)                   | BLACKFRIDAY2025 |
 | Compresto      | Your Mac's new best friend for making files smaller without making them look worse. Compress videos, images, and PDFs like a pro. Your storage will thank you.                                                                                                   | [40% OFF](https://compresto.app/pricing?ref=aitoolsfyi)                                        | BFCM25          |
+| SharpAPI | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tagging, and custom workflows. Fast, reliable endpoints for developers building real products. | [50% OFF first year](https://sharpapi.com/en/pricing?ref=aitoolsfyi) | BF2025 |
+
+
 
 ## Accounting
 
