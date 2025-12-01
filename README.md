@@ -43,6 +43,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Compresto      | Your Mac's new best friend for making files smaller without making them look worse. Compress videos, images, and PDFs like a pro. Your storage will thank you.                                                                                                   | [40% OFF](https://compresto.app/pricing?ref=aitoolsfyi)                                        | BFCM25          |
 | SharpAPI       | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tagging, and custom workflows. Fast, reliable endpoints for developers building real products.                                                                       | [50% OFF first year](https://sharpapi.com/en/pricing?ref=aitoolsfyi)                           | BF2025          |
 | GoStudio.ai | Create crisp, studio-quality AI headshots and branded photos in minutes. Built for founders, creators, and busy professionals—replace costly photoshoots with fast, polished AI portraits that elevate credibility and personal branding instantly. | [30% OFF – Black Friday Deal](https://www.gostudio.ai/pricing) | GS30 |
+| Summate | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | [50% OFF - $10/mo annual (was $20/mo), $15/mo monthly (was $30/mo)](https://summate.io) | SUMMATEBF25 |
 
 
 
