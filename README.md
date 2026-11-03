@@ -87,6 +87,9 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | FileMinutes    | Find files on your Mac faster than you can say "where did I save that?". A better way to search your Mac without losing your sanity.                                   | [50% OFF](https://www.fileminutes.com?ref=aitoolsfyi)                | BF2025          |
 | Ninbox         | Finally, a place for all those newsletters that keep cluttering your inbox. Move them to a clean, organized space and pretend you'll read them later (we won't judge). | [20% OFF](https://ninbox.io?ref=aitoolsfyi)                          | BF2025          |
 | Notion Backups | Because losing your Notion workspace is like losing a part of your brain. Easily back up and restore your Notion workspaces before disaster strikes.                   | [25% OFF all annual plans](https://notionbackups.com?ref=aitoolsfyi) | NOTIONBACKUPS25 |
+| Presentify     | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Native Mac app for presentations, calls, demos, and teaching. One-time purchase, no subscription. | [30% OFF, Nov 18 - Dec 2 (direct purchase from the website)](https://presentifyapp.com) | PRESENTIFY30 |
+| FaceScreen     | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase, no subscription. | [30% OFF, Nov 18 - Dec 2 (direct purchase from the website)](https://facescreen.app) | FACESCREEN30 |
+| KeyScreen      | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase, no subscription. | [30% OFF, Nov 18 - Dec 2 (direct purchase from the website)](https://keyscreen.app) | KEYSCREEN30 |
 
 ## Marketing Tools
 
