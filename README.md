@@ -50,6 +50,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Summate | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **[2026 TBA]** Standard pricing only ($10/mo annual). *Prior year (2025): 50% off with SUMMATEBF25.* ([Summate pricing](https://summate.io/pricing?ref=aitoolsfyi)) | — |
 | GetYouTubeTranscript | YouTube transcripts from a web app, Chrome extension, REST API and MCP server, with SRT, VTT, JSON, CSV, Markdown and TXT export. | **[2026 live]** Lifetime access **$149** once (3,000 credits/month), ends **Dec 10, 2026**; optional **30% off** first-year annual with **BF26GYT** (ends Dec 10) ([pricing](https://getyoutubetranscript.com/pricing?ref=aitoolsfyi)) | — |
 | Perisclaw | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | **[2026]** 40% off the annual plan (**$120**/yr vs $200), auto-applied at checkout, Nov 27 – Dec 1, 2026 ([Perisclaw pricing](https://perisclaw.com/pricing?utm_source=github-imrishit98&utm_medium=deal-listing&utm_campaign=cyber-monday-2026)) | — |
+| Skillry | Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, brand visuals, and product launch videos from one prompt. | **[2026 live]** **50% off** Pro (**$9.99** first month vs $19.90, or **$79** first year vs $158) + Founding Lifetime **$169** once (was $249), auto-applied at checkout, Nov 19 – Nov 30, 2026 ([Skillry pricing](https://skillry.dev/pricing)) | — |
 
 
 
@@ -66,6 +67,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Tool      | Description                                                                                                                                                                                                                           | Deal                                             | Promo Code  |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------- |
 | Serpstash | SEO reports and tools for smarter growth. Get complete SEO audits with 30+ technical and on-page checks, keyword research, SERP rankings, performance data, authority checks, and competition analysis. Built for getting you ranked. | **[2026 TBA]** No 2026 sale on site. *Prior year (2025): 85% off with BLACKFRIDAY.* ([Serpstash](https://serpstash.com/?ref=aitoolsfyi)) | — |
+| BizPeel | Verified revenue, traffic sources, SEO keywords & ad breakdowns for 700+ real startups — browse on web or query 48 live research tools inside Claude Code, Codex & Cursor via MCP. | **[2026 live]** **50% off** first month on all plans (Starter **$14.95**, Pro **$29.95**, Business **$49.95**) + **20% off** first year stacked on 15% annual savings, auto-applied at checkout, Nov 19 – Nov 30, 2026 ([BizPeel pricing](https://bizpeel.com/pricing)) | — |
 
 ## Developer Tools
 
