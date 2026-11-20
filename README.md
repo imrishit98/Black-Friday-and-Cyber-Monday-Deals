@@ -50,6 +50,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Summate | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **[2026 TBA]** Standard pricing only ($10/mo annual). *Prior year (2025): 50% off with SUMMATEBF25.* ([Summate pricing](https://summate.io/pricing?ref=aitoolsfyi)) | — |
 | GetYouTubeTranscript | YouTube transcripts from a web app, Chrome extension, REST API and MCP server, with SRT, VTT, JSON, CSV, Markdown and TXT export. | **[2026 live]** Lifetime access **$149** once (3,000 credits/month), ends **Dec 10, 2026**; optional **30% off** first-year annual with **BF26GYT** (ends Dec 10) ([pricing](https://getyoutubetranscript.com/pricing?ref=aitoolsfyi)) | — |
 | Perisclaw | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | **[2026]** 40% off the annual plan (**$120**/yr vs $200), auto-applied at checkout, Nov 27 – Dec 1, 2026 ([Perisclaw pricing](https://perisclaw.com/pricing?utm_source=github-imrishit98&utm_medium=deal-listing&utm_campaign=cyber-monday-2026)) | — |
+| [FastScribe](https://fastscribe.org/pricing) | Web app that turns audio, video and social links into transcripts, subtitles and AI summaries. | **$31 off** Pro first year: $89 (normally $120/year), then $120/year; 6,500 bonus credits valid 365 days. Accounts without an active subscription only; no code needed. Nov 17, 2026 - Nov 30, 2026 (11:59 PM Pacific). | No code needed |
 
 
 
