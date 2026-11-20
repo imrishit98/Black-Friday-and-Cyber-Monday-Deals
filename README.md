@@ -50,6 +50,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Summate | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **[2026 TBA]** Standard pricing only ($10/mo annual). *Prior year (2025): 50% off with SUMMATEBF25.* ([Summate pricing](https://summate.io/pricing?ref=aitoolsfyi)) | — |
 | GetYouTubeTranscript | YouTube transcripts from a web app, Chrome extension, REST API and MCP server, with SRT, VTT, JSON, CSV, Markdown and TXT export. | **[2026 live]** Lifetime access **$149** once (3,000 credits/month), ends **Dec 10, 2026**; optional **30% off** first-year annual with **BF26GYT** (ends Dec 10) ([pricing](https://getyoutubetranscript.com/pricing?ref=aitoolsfyi)) | — |
 | Perisclaw | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context. | **[2026]** 40% off the annual plan (**$120**/yr vs $200), auto-applied at checkout, Nov 27 – Dec 1, 2026 ([Perisclaw pricing](https://perisclaw.com/pricing?utm_source=github-imrishit98&utm_medium=deal-listing&utm_campaign=cyber-monday-2026)) | — |
+| YIX | Create and edit images and generate videos from text or photos in your browser. | **[2026 live]** 50% off the first month of all monthly plans, applied automatically. Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD). ([official pricing](https://yix.ai/pricing)) | — |
 
 
 
