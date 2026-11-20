@@ -97,6 +97,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | FaceScreen     | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad. One-time purchase, no subscription. | **[2026 upcoming]** 30% off direct website purchase **Nov 18–Dec 2, 2026** (promo not visible on homepage Nov 16; confirm at checkout) ([FaceScreen](https://facescreen.app?ref=aitoolsfyi)) | FACESCREEN30 |
 | KeyScreen      | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase, no subscription. | **[2026 upcoming]** 30% off direct website purchase **Nov 18–Dec 2, 2026** (promo not visible on homepage Nov 16; confirm at checkout) ([KeyScreen](https://keyscreen.app?ref=aitoolsfyi)) | KEYSCREEN30 |
 | Inkfree | eSignature for teams: signing order, reusable templates, bulk send, web forms and a sealed audit trail. ESIGN, UETA and eIDAS compliant. | **[2026 live]** 70% off the first year on annual plans or 60% off the first 3 months on monthly plans until **Dec 14, 2026** (auto-applied) ([sale](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026)) | — |
+| Sum | Sum turns audio and video into transcripts and AI summaries in your browser. | **50% OFF** the first billing period of Sum Pro Monthly or Annual through November 30, 2026 (US Eastern Time); renews at regular price. ([View pricing](https://sumtranscribe.com/pricing)) | `SUMBF50` |
 
 ## Marketing Tools
 
