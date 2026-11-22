@@ -80,6 +80,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | BucketMate | S3 bucket management that doesn't make you want to throw your Mac out the window. Finder-style interface for managing your cloud storage like a boss.                                                                            | **[2026 live]** 40% off all lifetime licenses, Nov 3–**Dec 2**, 2026 ([BucketMate pricing](https://bucketmate.app/pricing?ref=aitoolsfyi)) | BF2026     |
 | Social Fetch | REST API and hosted MCP server for public social data as JSON: profiles, posts, comments, transcripts and search across TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. 100 free credits, no card. | **[2026 live]** Double credits on every plan, automatic at checkout, no code (19 Nov to 1 Dec 2026) ([pricing](https://www.socialfetch.dev/black-friday)) | — |
 | Akev | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **[2026 live]** 30% off the Pro licence, one-time ($49 → $34.30), until Dec 6, 2026 ([pricing](https://akev.dev/pricing)) | BLACKFRIDAY |
+| SerpWrap | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months | **[2026 live]** 40% off every credit pack, until Nov 30, 2026 ([vendor page](https://serpwrap.com)) | BLACKF40 |
 
 ## Design Tools
 
@@ -117,6 +118,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Nuelink | Agentic social media scheduling and automation for 12 platforms. Auto-share new blog posts, products and podcast episodes, or draft posts with NueAI, ChatGPT or Claude via MCP. | **[2026 live]** 6 months free on yearly plans (12 months for the price of 6), or 25% off your first 3 monthly payments — ends **Nov 30, 2026** ([offer page](https://nuelink.com/?ref=aitoolsfyi)) | BFCM26 |
 | Mailzzy | Email marketing for small businesses: templates, AI-drafted campaigns, A/B testing, segments and automations, plus an MCP server for Claude and ChatGPT. | **[2026 live]** 70% off the first year on annual plans or 60% off the first 3 months on monthly plans until **Dec 14, 2026** (auto-applied) ([sale](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026)) | — |
 | HeySummit | HeySummit helps you reach new people and sell tickets by hosting a workshop or summit on the web. | **[2026 live]** New customers get 40% off the first year of annual Starter, Growth or Success, 19–30 November 2026 (GMT). Annual Starter is US$234 for year one, usually US$390. Extra attendee capacity and renewals are charged at the standard rate. ([Offer page](https://heysummit.com/pricing?coupon=V3UlY3Iz)) | `V3UlY3Iz` |
+| Pitchlist | Local business leads by city and business type with phone, address, rating and website, as CSV, XLSX or JSON. Claude Code integration support via a hosted MCP server. Pay once, no subscription | **[2026 live]** 60% off every lead pack, until Nov 30, 2026 ([vendor page](https://pitchlist.serpwrap.com)) | BLACKFRIDAY60 |
 
 ## Finance Tools
 
