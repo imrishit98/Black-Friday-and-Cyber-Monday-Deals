@@ -85,6 +85,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Social Fetch | REST API and hosted MCP server for public social data as JSON: profiles, posts, comments, transcripts and search across TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more. 100 free credits, no card. | **[2026 live]** Double credits on every plan, automatic at checkout, no code (19 Nov to 1 Dec 2026) ([pricing](https://www.socialfetch.dev/black-friday)) | — |
 | Akev | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. macOS, Windows and Linux. | **[2026 live]** 30% off the Pro licence, one-time ($49 → $34.30), until Dec 6, 2026 ([pricing](https://akev.dev/pricing)) | BLACKFRIDAY |
 | SerpWrap | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months | **[2026 live]** 40% off every credit pack, until Nov 30, 2026 ([vendor page](https://serpwrap.com)) | BLACKF40 |
+| Moordeck | Local-first anti-detect browser with isolated profiles and Zero-CDP AI agent control (Local MCP, CLI, Playwright); free for 5 local profiles. macOS Apple Silicon & Linux x64 (Windows coming soon). | **[2026 live]** 25% off Year 1 Pro ($108 → $81/yr) & Team ($348 → $261/yr) annual plans (auto-applied; renews at $108/$348/yr) + Founding Solo Lifetime $79 (reg. $129, first 200 seats), Nov 24–30, 2026 PT ([pricing](https://moordeck.com/pricing)) | BF2026 |
 
 ## Design Tools
 
