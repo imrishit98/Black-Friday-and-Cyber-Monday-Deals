@@ -116,6 +116,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Sum | Sum turns audio and video into transcripts and AI summaries in your browser. | **50% OFF** the first billing period of Sum Pro Monthly or Annual through November 30, 2026 (US Eastern Time); renews at regular price. ([View pricing](https://sumtranscribe.com/pricing)) | `SUMBF50` |
 | Transync AI | Real-time AI translation for meetings, with bilingual subtitles and voice in 60 languages, on Windows, Mac, iPhone, Android and Web. | **[2026 upcoming]** Save $20 on Personal Premium annual ($89.90 → $69.90), auto-applied, no code (Nov 24–Dec 1, 2026). New annual or monthly-to-annual only; renewals excluded. ([Transync AI](https://www.transyncai.com/black-friday/)) | — |
 | Wishbar | Type what you want in plain English and your own ChatGPT or Claude builds a live widget in your Mac menu bar. Native Mac app. One-time purchase, no subscription. | **[2026 live]** 50% off every one-time licence: Solo ~~$39~~ **$19**, Personal ~~$49~~ **$24**, Family ~~$69~~ **$34**, until **Dec 7, 2026** (auto-applied, no code) ([deal](https://wishbar.app/black-friday)) | — |
+| PasteNotch | Clipboard manager for Mac that lives in your notch. Every clip (text, links, images, files) searchable and one shortcut away. Not an AI tool. One-time purchase, no subscription. | **[2026 live]** 50% off: ~~$4.99~~ **$2.49** one-time, **Nov 23–Dec 1, 2026** (CET) ([deal](https://pastenotch.com/black-friday)) | BLACKFRIDAY50 |
 
 ## Marketing Tools
 
