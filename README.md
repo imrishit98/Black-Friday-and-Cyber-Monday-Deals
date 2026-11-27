@@ -176,7 +176,11 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Eternal Vault         | Secure bridge between your life and your loved ones. Because planning for the future is important, even if it's not fun to think about.                                                                                                | **[2026 TBA]** No 2026 promo on pricing. *Prior year (2025): 20% off all plans with BLACKFRIDAY2025.* ([Eternal Vault](https://eternalvault.app?ref=aitoolsfyi)) | —               |
 | Podigy Podcast Player | Best-in-class podcast player for iPhone, iPad, and Mac. Trim silence, boost voices, CarPlay support, and more. Because life's too short for boring podcasts.                                                                           | **[2026 TBA]** No 2026 annual discount verified. *Prior year: 30% off annual plan.* ([Podigy on the App Store](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416?ref=aitoolsfyi)) | — |
 
-Please open a PR to submit your deal to this list.
+## How to Submit
+
+Open a pull request to add your deal to the tables above. Use the repository’s PR template checklist so your row matches the existing four-column format (including a **2026** status tag such as `**[2026 live]**`).
+
+If this list helped you find or share a deal, starring the repo is optional but appreciated—it helps more people discover these deals. No star is required to submit.
 
 ---
 
